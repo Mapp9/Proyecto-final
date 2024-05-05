@@ -1,0 +1,1 @@
+El proyecto tiene como objetivo desarrollar una aplicación web destinada a facilitar la reserva y gestión para una empresa dedicada al alquiler de salas de ensayo para músicos. La aplicación permitira a los usuarios visualizar la disponibilidad, caracteristicas de la sala, y sus respectivos precios. Desde allí podran realizar la reserva de las mismas en linea.
